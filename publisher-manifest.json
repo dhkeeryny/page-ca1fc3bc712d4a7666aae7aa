@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9acd9a03f080b4eec66e5469",
+  "owner": "dhkeeryny",
+  "repo": "page-ca1fc3bc712d4a7666aae7aa",
+  "title": "EEVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ca1fc3bc712d4a7666aae7aa",
+      "a": "EEVPN",
+      "b": "2027官方最新地址导航",
+      "entity": "EEVPN",
+      "brand": "EEVPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9e45bb53d166444df3f9c8a3cce9a1d5430639f537e3d5e0e4373891089b526b",
+      "content": {
+        "primary_entity": "EEVPN",
+        "keyword1": "EEVPN",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，EEVPN 提供基础版、旗舰版与团队版三档海外加速方案，月付分别为 ¥15、¥35、¥85，按年付可享 ¥150、¥350、¥850 的优惠价。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并搭载 IPLC 专线优化游戏延迟，团队版每月 1000GB 流量支持 20 台设备并提供企业定制路由。选择套餐时可按日常流量、同时在线设备数和流媒体或游戏需求匹配，再依客户端文档配置订阅。",
+          "AI_HERO_SUBTITLE": "EEVPN 海外加速方案",
+          "AI_HERO_INTRO": "EEVPN 是提供海外网络加速服务的品牌，面向个人与团队用户推出基础版、旗舰版和团队版三档套餐。套餐在流量、设备数量和线路类型上逐级提升，旗舰版搭载 IPLC 专线优化游戏延迟，团队版支持企业定制路由与专属客户经理服务。按年付比月付更优惠，适合长期稳定使用的用户。",
+          "AI_VISUAL_TITLE": "EEVPN 套餐概览",
+          "AI_HIGHLIGHT_1": "三档套餐满足不同设备规模",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏加速",
+          "AI_HIGHLIGHT_3": "按年付可节省近两个月费用",
+          "AI_FEATURES_TITLE": "选择 EEVPN 的三个关注点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期出发，找到适合的套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，可依手机、电脑与平板的日常在线数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，轻度浏览与高清流媒体所需流量差异明显。",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付仅需 ¥150、¥350、¥850，长期使用年付方案在单价上更划算。",
+          "AI_CLIENTS_TITLE": "选择客户端",
+          "AI_CLIENTS_INTRO": "EEVPN 支持在常见桌面与移动系统上使用订阅方式配置，具体客户端可按设备类型选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与节点权益上依次升级，旗舰版为多数个人用户的主推选择。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_GUIDE_INTRO": "从选择套餐到配置订阅，三步完成 EEVPN 的初步使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数和是否需要游戏或流媒体加速，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境满足客户端运行条件，团队版可进一步咨询企业定制路由的适配情况。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按所用客户端文档的说明导入配置，完成后即可在对应设备上使用加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "开始使用 EEVPN",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，依客户端文档完成订阅配置，即可使用海外加速服务。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差在哪里？",
+          "AI_FAQ_ANSWER_1": "流量从 100GB 提升到 300GB，设备数从 3 台升到 5 台，并加入 IPLC 专线游戏加速与原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些人用？",
+          "AI_FAQ_ANSWER_2": "适合 20 台以内设备同时在线的小团队，1000GB 月流量与 VIP 高带宽节点便于多人分用，还可配置定制路由。",
+          "AI_FAQ_QUESTION_3": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_3": "先按设备系统安装对应客户端，再参照客户端文档把订阅地址粘贴进去，保存后节点列表会自动刷新。",
+          "AI_FAQ_QUESTION_4": "同时在线设备会互踢吗？",
+          "AI_FAQ_ANSWER_4": "各档位有对应的同时在线设备数上限，基础版 3 台、旗舰版 5 台、团队版 20 台，超出上限时会限制新增连接。",
+          "AI_FAQ_QUESTION_5": "按月付和按年付哪个更省？",
+          "AI_FAQ_ANSWER_5": "按年付的月均支出更低，基础版约 ¥150/年、旗舰版约 ¥350/年、团队版约 ¥850/年，适合长期使用的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xdzrn.cn",
+    "host": "xdzrn.cn"
+  },
+  "file_hashes": {
+    "index.html": "0dad6effd325c6b758ef57fea07a5d06e118a887cb604160a775174a89280452",
+    "sitemap.xml": "e588da7e6858e233f6e2ab4dd35b4b9e59d26dd989dbbc63abe31985a43c5c95",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1dad72ecb5f2ec23283e5095dcdd5c1a9c95b50a59c38e583958d023aaaa9341",
+    "robots.txt": "09ad3ac013da106f5e1df4a3626c74dc5bc31f3653955a36110a4c3db0747e14",
+    "10c4989aadd8c0c13d33d5d67829368a.txt": "777ccee506e9d5a0dcb93e8dc055cc983b5ebb6e20f0034f539ec9f7832a159a"
+  },
+  "revision": "1c747bd5e4dadf3937e35f2e059b14ce8e3742c28e6bc1874e1bba14601d153b"
+}
